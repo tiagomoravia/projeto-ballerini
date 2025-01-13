@@ -145,4 +145,32 @@ body {
         margin-top: 15px;
         gap: 5px;
     }
+
+    .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+        
+
+    }
+
+    .conteudo-principal-escrito-titulo {
+        font-family: 'righteous', cursive;
+        font-weight: bold;
+        font-size: 32px;
+        color: #fff2e7;
+    }
+
+    h1 {
+        text-align: center;
+        padding: 20px;
+    }
+
+    h2 {
+        padding-bottom: 20px;
+    }
+
+    button {
+        display: block;
+        margin: auto;
+    }
 }
